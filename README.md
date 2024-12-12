@@ -6,7 +6,7 @@ Developed and implemented advanced sentiment analytics solutions to analyze unst
 Publically Acessable Link of my project :
 link: https://customer-sentiment-analysis.onrender.com
 
-Technologies used :
+**Technologies used** :
 
 HTML & CSS :     for userinterface
 

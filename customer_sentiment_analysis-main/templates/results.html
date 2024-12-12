@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis Results</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sentiment Analysis Results</h1>
+        </header>
+        <main>
+            <section class="message">
+                <p>{{ message }}</p>
+            </section>
+            <section class="chart">
+                <img src="data:image/png;base64,{{ bar_chart }}" alt="Sentiment Distribution Chart">
+            </section>
+            <section class="results">
+                <h2>Counts:</h2>
+                <ul>
+                    <li><span class="label positive">Positive:</span> {{ results['Positive'] }}</li>
+                    <li><span class="label neutral">Neutral:</span> {{ results['Neutral'] }}</li>
+                    <li><span class="label negative">Negative:</span> {{ results['Negative'] }}</li>
+                </ul>
+            </section>
+        </main>
+    </div>
+</body>
+</html>

@@ -7,11 +7,18 @@ Publically Acessable Link of my project :
 link: https://customer-sentiment-analysis.onrender.com
 
 Technologies used :
-Pandas :Data manipulation and integration 
-Sklearn:Quick data exploration and understanding 
-Numpy :Numerical operations and missing data handling 
-Matplotlib :Creating static , interactive, and animated visualisations 
-Streamlit :Data exploration and Visualisation
+
+HTML & CSS :     for userinterface
+
+Pandas :         Data manipulation and integration 
+
+Sklearn:         Quick data exploration and understanding 
+
+Numpy :          Numerical operations and missing data handling
+
+Matplotlib:      Creating static , interactive, and animated visualisations 
+
+Streamlit :      Data exploration and Visualisation
 
 Working 0f my Project:
 

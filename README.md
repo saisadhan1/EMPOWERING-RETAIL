@@ -1,5 +1,6 @@
-# EMPOWERING-RETAIL -BY SAISADHAN
+# EMPOWERING-RETAIL - BY SAISADHAN
 EMPOWERING RETAIL WITH  CUSTOMER SENTIMENT ANALYTICS 
+
 Developed and implemented advanced sentiment analytics solutions to analyze unstructured customer feedback from social media, product reviews, and surveys. Leveraged big data, machine learning, and natural language processing (NLP) to provide real-time, actionable insights, enhancing customer experience, optimizing product offerings, and refining marketing strategies. Addressed limitations of traditional feedback analysis by enabling scalable sentiment classification, helping retailers align with evolving customer expectations and maintain a competitive edge in the market.
 
 Publically Acessable Link of my project :

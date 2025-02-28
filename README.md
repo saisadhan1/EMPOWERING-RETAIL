@@ -18,7 +18,7 @@ Numpy :          Numerical operations and missing data handling
 
 Matplotlib:      Creating static , interactive, and animated visualisations 
 
-Streamlit :      Data exploration and Visualisation
+Streamlit :      Data exploration and Visualisation.
 
 Working 0f my Project:
 
@@ -36,3 +36,4 @@ Results:
 
 PROJECT LINK:
 (https://customer-sentiment-analysis.onrender.com)
+

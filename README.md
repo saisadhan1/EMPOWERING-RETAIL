@@ -22,7 +22,7 @@ Streamlit :      Data exploration and Visualisation.
 
 ## 🎥 Video Demonstration
 
-[View Demo on GitHub Pages]([https://username.github.io/repository/demo.html](https://workdrive.zohoexternal.in/external/ffdba661e394b9381f38e536046ef401500d825dc97bddda2290b5ae13b55a4e))
+https://workdrive.zohoexternal.in/external/ffdba661e394b9381f38e536046ef401500d825dc97bddda2290b5ae13b55a4e
 
 
 Working 0f my Project:

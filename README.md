@@ -25,7 +25,7 @@ Streamlit :      Data exploration and Visualisation.
 https://workdrive.zohoexternal.in/external/ffdba661e394b9381f38e536046ef401500d825dc97bddda2290b5ae13b55a4e
 
 
-Working 0f my Project:
+## Working of my Project:
 
 User interface:
 
@@ -39,6 +39,6 @@ Results:
 
 ![image](https://github.com/user-attachments/assets/e9b0b5cc-d002-470f-b85a-eda27e782797)
 
-PROJECT LINK:
+##PROJECT LINK:
 (https://customer-sentiment-analysis.onrender.com)
 

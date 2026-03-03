@@ -21,7 +21,7 @@ Matplotlib:      Creating static , interactive, and animated visualisations
 Streamlit :      Data exploration and Visualisation.
 
 ## PROJECT LINK:
-(https://customer-sentiment-analysis.onrender.com)
+https://customer-sentiment-analysis.onrender.com
 
 ## 🎥 Video Demonstration
 
